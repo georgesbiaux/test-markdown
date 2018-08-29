@@ -23,7 +23,7 @@ Once you've imported your unity package, a new menu should appear called `Voodoo
 Fill the 5 fields using theses ids:
 
 | Name | Key |
-| - | - |
+| ------------- |:-------------:|
 | GameAnalytics key | ... |
 | GameAnalytics build secret | ... |
 | Appodeal App Key | ... |
