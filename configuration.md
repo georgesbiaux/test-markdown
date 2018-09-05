@@ -22,3 +22,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 With this, you’ll be able to run other games’ ads in your app, just as your ad will be running on other app’s cross promotion area.
 
 Simple click on the Lorem button in the Ipsum page.
+
+![Sample Image](image.png)
