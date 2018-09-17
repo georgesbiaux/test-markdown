@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 These are the api keys that will allow you to fetch analytics
 
-$API_KEYS$
+%API_KEYS%
 
 ### Subsubtitle
 
